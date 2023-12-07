@@ -26,4 +26,8 @@ Tech Stack
   <img src="https://img.shields.io/badge/nextjs-000?style=flat-square&logo=nextdotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/nodejs-000?style=flat-square&logo=nodedotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/express-000?style=flat-square&logo=express&logoColor=white"> 
+  <img src="https://img.shields.io/badge/nx-000?style=flat-square&logo=nx&logoColor=white"> 
+  <img src="https://img.shields.io/badge/git-000?style=flat-square&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/jira-000?style=flat-square&logo=jira&logoColor=white"> 
+  <img src="https://img.shields.io/badge/bitbucket-000?style=flat-square&logo=bitbucket&logoColor=white"> 
 </div>
