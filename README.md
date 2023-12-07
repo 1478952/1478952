@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 Tech Stack
 
-<a><img src="./icons/html5.svg"/></a>
-<img src="./icons/css3.svg"/>
-<img src="./icons/javascript.svg"/>
-<img src="./icons/typescript.svg"/>
-<img src="./icons/react.svg"/>
-<img src="./icons/nextdotjs.svg"/>
-<img src="./icons/nodedotjs.svg"/>
-<img src="./icons/express.svg"/>
+<div>
+  <img src="https://img.shields.io/badge/html5-000?style=flat-square&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css3-000?style=flat-square&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-000?style=flat-square&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/typescript-000?style=flat-square&logo=typescript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/react-000?style=flat-square&logo=react&logoColor=white"> 
+  <img src="https://img.shields.io/badge/nextjs-000?style=flat-square&logo=nextdotjs&logoColor=white"> 
+  <img src="https://img.shields.io/badge/nodejs-000?style=flat-square&logo=nodedotjs&logoColor=white"> 
+  <img src="https://img.shields.io/badge/express-000?style=flat-square&logo=express&logoColor=white"> 
+</div>
